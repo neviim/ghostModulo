@@ -1,4 +1,4 @@
-/*  ghost.c - Demonstra a passagem de argumentos por linha de comando a um módulo do kernel linux.
+/*  ghost.c - Demonstra a passagem de parametro por linha de comando a um módulo do kernel linux.
 		
 	# compilando:
 	$ make
